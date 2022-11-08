@@ -9,4 +9,3 @@ Feature: Looking up post codes
       | 90210     | US           | United States | Beverly Hills |
       | 13001     | FR           | France        | Marseille 01  |
 
-
